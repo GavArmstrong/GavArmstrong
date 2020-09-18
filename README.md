@@ -1,6 +1,6 @@
 Hello there! :wave:
 
-I'm Gavin, a Mathematician, Statistician, and Data Scientist based out of Denver, CO.
+I'm Gavin! A Mathematician, Statistician, and Data Scientist based out of Denver, CO.
 
 This GitHub page is a continually growing list of my personal projects.
 
