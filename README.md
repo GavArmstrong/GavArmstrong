@@ -1,4 +1,4 @@
-Hello there!
+Hello there! :wave:
 
 I'm Gavin, a Mathematician, Statistician, and Data Scientist based out of Denver, CO.
 
