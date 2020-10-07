@@ -11,4 +11,22 @@ This GitHub page is a continually growing list of my personal projects.
 
 Feel free to follow me on GitHub or <a href="https://www.linkedin.com/in/gavin-armstrong-10/">LinkedIn</a>.
 
+Current GitHub projects:
+
+1. Leading Causes of Death by State.
+
+https://github.com/GavArmstrong/Causes_of_Death
+
 <img src="A.png"/>
+
+2. Drug poisoning Mortality Rate by County.
+
+https://github.com/GavArmstrong/Drug_Poisoning_Mortatlity
+
+<img src="B.gif"/>
+
+3. Average Federal Student Loan Debt by State.
+
+https://github.com/GavArmstrong/Student_Loans
+
+<img src="C.png"/>
