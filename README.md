@@ -13,19 +13,11 @@ Current GitHub projects:
 ------------------------
 
 1.  Leading Causes of Death by State.
+    <https://github.com/GavArmstrong/Causes_of_Death> <img src="A.png"/>
 
-<https://github.com/GavArmstrong/Causes_of_Death>
+2.  Drug poisoning Mortality Rate by County.
+    <https://github.com/GavArmstrong/Drug_Poisoning_Mortatlity>
+    <img src="B.gif"/>
 
-<img src="A.png"/>
-
-1.  Drug poisoning Mortality Rate by County.
-
-<https://github.com/GavArmstrong/Drug_Poisoning_Mortatlity>
-
-<img src="B.gif"/>
-
-1.  Average Federal Student Loan Debt by State.
-
-<https://github.com/GavArmstrong/Student_Loans>
-
-<img src="C.png"/>
+3.  Average Federal Student Loan Debt by State.
+    <https://github.com/GavArmstrong/Student_Loans> <img src="C.png"/>
